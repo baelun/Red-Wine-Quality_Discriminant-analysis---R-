@@ -17,3 +17,7 @@
 11. alcohol
 ## Output variable (based on sensory data):
 12. quality (score between 0 and 10)
+
+## Statistical methods
+* discriminant analysis
+> LDA
