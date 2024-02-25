@@ -1,4 +1,4 @@
-# Red Wine-Quality-Discriminant-analysis-R
+# Red-Wine-Quality-Discriminant-analysis-R
 > Using discriminant analysis to explore factors influencing red wine quality and establish a predictive model.
 ## Dataset
 * Source: KAGGLE
